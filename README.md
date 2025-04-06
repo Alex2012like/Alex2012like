@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm alex2012like</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alex2012like" alt="alex2012like" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alex2012like&theme=darkhub" alt="alex2012like" /></a> </p>
 
 ___
 
@@ -10,12 +10,12 @@ ___
 ___
 
 <h3 align="left">Statistics:</h3>
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex2012like&show_icons=true&locale=en&layout=compact" alt="alex2012like" /></p></div><br><br><br><br><br><br><br><br>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex2012like&show_icons=true&locale=en&layout=compact&theme=dark" alt="alex2012like" /></p></div><br><br><br><br><br><br><br><br>
 
 ___
 
 <h3 align="left">Status:</h3>
-<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex2012like&show_icons=true&locale=en" alt="alex2012like" /></p></div><br>
+<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex2012like&show_icons=true&locale=en&theme=dark" alt="alex2012like" /></p></div><br>
 
-<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alex2012like&" alt="alex2012like" /></p></div><br>
+<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alex2012like&theme=dark" alt="alex2012like" /></p></div><br>
 
